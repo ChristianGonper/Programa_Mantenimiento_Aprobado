@@ -18,7 +18,7 @@ Enlace de la web de AESA para la gestión de programas de [mantenimiento](https:
 
 ## Documentos adicionales
 
-[Guía de Elaboración AMP](Guía de Elaboración AMP.md): Tutorial del profesor para la realización de este trabajo.  
+[Guía de Elaboración AMP](Guía%20de%20Elaboración%20AMP.md): Tutorial del profesor para la realización de este trabajo.  
 [Rúbrica trabajo de Mantenimiento 2026](Rubrica_trabajo_de_Mantenimiento_2026.md): Indica de forma objetiva cómo se evaluará el trabajo realizado por el alumno.  
 [TBO Page SIL98-9C.pdf]:Carta de información de Continental motors para motores, con el tema central del Time Between Overhauls.
 
