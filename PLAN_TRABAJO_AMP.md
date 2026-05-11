@@ -16,7 +16,7 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
 | 4. Programa base de inspecciones | Completado | `trazabilidad/03_programa_inspecciones.md`, AMP 8.1, Excel `Tasks` |
 | 5. Inspecciones especiales | Completado | AMP 8.2, Excel `Special Points Test/Tasks` |
 | 6. Limpieza, lubricacion y servicing | Completado | AMP apartado servicing, Excel `Tasks` |
-| 7. Componentes vida limite / TBO / OH | Pendiente | AMP 10.1/10.2, Excel `Life Limit Comp` |
+| 7. Componentes vida limite / TBO / OH | Completado | AMP 10.1/10.2, Excel `Life Limit Comp` |
 | 8. ADs aeronave y motor | Pendiente | AMP 10.3/11, Excel `ADs` |
 | 9. Excel funcional | En curso | Formulas, `Next due`, `to go`, alertas |
 | 10. Revision final contra rubrica | Pendiente | Entrega coherente AMP + Excel |

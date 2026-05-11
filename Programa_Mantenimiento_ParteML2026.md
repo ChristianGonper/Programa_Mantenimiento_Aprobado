@@ -182,13 +182,22 @@ Nota: **No se permite ninguna variación ni extensión** en los componentes para
 
 | Componente | Time between overhaul (TBO) schedules | Documento de Referencia | Observaciones |
 | :---- | :---: | ----- | ----- |
-| Motor Continental O-470-R | 2000 FH o 120 meses | Continental SERVICE INFORMATION LETTER SIL98-9C | Overhaul |
-| Amortiguadores / tren | \_\_\_\_\_\_\_ h | CESSNA 182 SERIES SERVICE MANUAL **pag 20-3** | Descartar |
-|  |  |  |  |
-| Hélice | \_\_\_\_\_\_\_ h / años | HARZTELL  SERVICE INFORMATION LETTER Nº |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Motor Lycoming O-360-A1AD | 2000 FH o 12 años, lo que antes ocurra | Lycoming SI 1009BE, Page 2 y Table 1 Page 3; SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH. No se aplica extensión TBO sin justificación específica |
+| Alternator ALX 8421 / ALX 8521 / ALU 8421 | Engine overhaul | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 1 | OH |
+| Propeller Hartzell HC-C2YK-1BF/F7666 A-2 | Overhaul según intervalo de fabricante/regulatorio | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH. Hélice tratada a nivel suficiente por alcance académico |
+| Propeller governor Hartzell F4-26 | Engine overhaul | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH |
+| Carburetor Marvel 71098 MA-4-5 | Engine overhaul | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH |
+| Dual magneto TCM D4LN3000 | Engine overhaul o 4 años | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH |
+| Starter MZ 4222 / Lycoming LW15571 | Engine overhaul | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 4 | OH |
+| ELT battery assembly | 4 años o fecha límite indicada en batería | SOCATA TB 10 MM Rev. 18, 05-10-00 Pages 1-2 | Discard |
+| ELT seals | 12 años | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 2 | Discard |
+| Fire extinguisher | 10 años; L'HOTELLIER hydrostatic test cada 5 años | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 3, TR006.05 | Discard / inspection |
+| Vacuum system filter AIRBORNE 1J4-7 | 500 FH o 1 año | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 3 | Discard |
+| Emergency vacuum pump AIRBORNE 4A3-1 | 500 pump hours o 10 años | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 3 | Discard |
+| Access door latches TB10 25012102 | 1500 FH | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 3 | Discard |
+| Teflon hoses | Unlimited | SOCATA TB 10 MM Rev. 18, 05-10-00 Pages 5-9 | On Condition |
+| Fuel selector filter/drain hose TB10 52035114 | 2000 FH o 10 años | SOCATA TB 10 MM Rev. 18, 05-10-00 Page 6 | Discard |
+| Other elastomer/rubber/vinyl hoses | 5, 8 o 10 años según material/ubicación | SOCATA TB 10 MM Rev. 18, 05-10-00 Pages 5-9 | Discard |
 
 ## **10.2 Mantenimiento debido a las Instrucciones Obligatorias de Aeronavegabilidad Continua (ALI, CMR, requisitos específicos en el TCDS, etc.)**
 
@@ -197,6 +206,8 @@ En este punto se deberán indicar aquellas **Limitaciones Estructurales y de Aer
 Nota: **No se permite ninguna variación ni extensión** en los componentes para los cuales se haya prescrito una vida útil final (descarte).
 
 La sección de limitaciones de aeronavegabilidad está aprobada por las autoridades de aeronavegabilidad:  EASA especifica el mantenimiento requeridos según las partes **CS23.1529** y 023.4 del Apéndice G. La sección de limitaciones de aeronavegabilidad también está aprobada por la FAA  y especifica el mantenimiento requerido según las secciones **43.16 y 91.403.**
+
+Para este trabajo académico se toma como base la documentación disponible en el cuaderno: SOCATA TB 10 Maintenance Manual Rev. 18, especialmente Chapter 05-10-00 Time Limits. Se deja indicada la limitación documental de que el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible en las fuentes facilitadas. Por tanto, no se aplica ninguna extensión a componentes con límite final, overhaul o descarte sin justificación específica.
 
 ## **10.3. Requisitos de mantenimiento repetitivo debido a directivas de aeronavegabilidad**
 
