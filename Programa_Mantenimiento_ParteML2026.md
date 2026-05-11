@@ -32,7 +32,7 @@ El presente Programa de Mantenimiento (AMP) define las tareas necesarias para as
 | :---- | :---- | :---- | :---- |
 | **Revisión** | **Fecha** | **Motivo del Cambio** | **Aprobado por** |
 | 0 | 10/05/2026 | Emisión Inicial | Grupo 1 |
-| 1 | DD/MM/AAAA | Ej. Actualización de intervalos de motor |  |
+| 1 | Pendiente | Reservado para futuras enmiendas |  |
 |  |  |  |  |
 
 # **4\. LISTA DE PÁGINAS EFECTIVAS (LEP)**
@@ -70,11 +70,11 @@ El presente AMP aplica a aeronaves ligeras de ala fija, helicópteros o planeado
 
 Definición del rango de utilización anual normal o típico de la aeronave definido por las Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH
 
-La base del programa se establece considerando una utilización anual de XXXX\_ horas/año (o ciclos/año), con una tolerancia del ±25%. 
+La base del programa se establece considerando una utilización anual simulada de **100 horas de vuelo/año**, **80 vuelos/ciclos/año** y **90 aterrizajes/año**, con una tolerancia del ±25%. Esta utilización se emplea como hipótesis académica para alimentar el `Flight Log` y el libro de control de aeronavegabilidad.
 
 En caso de desviaciones significativas, se revisará el AMP.
 
-Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH, o Informes de la Junta de Revisión de Mantenimiento (MRBR) o los Documentos de Planificación de Mantenimiento (MPD): AIRPLANE MAINTENTANCE MANUAL. Part Number 761-694. Ene/09. Pag. 5-14.
+Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH: SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18, Rev. 18 SEP 06.
 
 # **7\. BASE DEL AMP \- DOCUMENTOS DE REFERENCIA**
 

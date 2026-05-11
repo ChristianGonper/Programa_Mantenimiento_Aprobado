@@ -18,7 +18,7 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
 | 6. Limpieza, lubricacion y servicing | Completado | AMP apartado servicing, Excel `Tasks` |
 | 7. Componentes vida limite / TBO / OH | Completado | AMP 10.1/10.2, Excel `Life Limit Comp` |
 | 8. ADs aeronave y motor | Completado | AMP 10.3/11, Excel `ADs` |
-| 9. Excel funcional | En curso | Formulas, `Next due`, `to go`, alertas |
+| 9. Excel funcional | Completado | `Flight Log` simulado, formulas, `Next due`, `to go`, alertas |
 | 10. Revision final contra rubrica | Pendiente | Entrega coherente AMP + Excel |
 
 ## Orden de ejecucion
@@ -67,10 +67,10 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
    - Rellenar AMP 10.3/11 y Excel `ADs`.
 
 9. **Excel funcional**
-   - Rellenar `Flight Log` con datos simulados para el trabajo academico.
-   - Revisar `Flight Log` como fuente maestra de FH/ciclos/aterrizajes.
-   - Verificar formulas de `Next due` y `to go`.
-   - Mantener nombres, intervalos y referencias identicos entre AMP y Excel.
+   - Rellenar `Flight Log` con datos simulados para el trabajo academico. **Completado.**
+   - Revisar `Flight Log` como fuente maestra de FH/ciclos/aterrizajes. **Completado.**
+   - Verificar formulas de `Next due` y `to go`. **Completado.**
+   - Mantener nombres, intervalos y referencias identicos entre AMP y Excel. **Completado.**
 
 10. **Revision final contra rubrica**
     - Eliminar ejemplos ajenos que queden en la plantilla.

@@ -25,10 +25,11 @@ Reglas de trabajo:
 - Indicar documento, pagina/seccion, consulta usada y decision tomada.
 - Si falta una fuente, anadirla a `trazabilidad/documentos_pendientes.md`.
 - Mantener coherencia exacta entre AMP y Excel.
+- El Excel debe recalcular `Next due` y `to go` desde `Flight Log`.
 - No hacer todo en una tirada: avanzar por fases y parar ante bloqueos reales.
 - Usar `uv` para cualquier gestion de dependencias Python.
 - Motor fijado: Textron Lycoming O-360-A1AD; helice simple; no considerar SB de motor ni aeronave.
-- El `Flight Log` se rellenara con datos simulados para el trabajo academico.
+- El `Flight Log` contiene datos simulados para el trabajo academico; no tratarlos como registros reales.
 
 Fases principales:
 1. Identificacion: aeronave, motor, helice, TCDS y aplicabilidad.
