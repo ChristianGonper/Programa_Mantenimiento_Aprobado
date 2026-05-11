@@ -27,8 +27,8 @@ Reglas de trabajo:
 - Mantener coherencia exacta entre AMP y Excel.
 - No hacer todo en una tirada: avanzar por fases y parar ante bloqueos reales.
 - Usar `uv` para cualquier gestion de dependencias Python.
-- Motor fijado: Textron Lycoming O-360-A1AD; no considerar SB de motor ni aeronave.
-- Helice: mantener una unica referencia suficiente; no profundizar salvo orden expresa.
+- Motor fijado: Textron Lycoming O-360-A1AD; helice simple; no considerar SB de motor ni aeronave.
+- El `Flight Log` se rellenara con datos simulados para el trabajo academico.
 
 Fases principales:
 1. Identificacion: aeronave, motor, helice, TCDS y aplicabilidad.

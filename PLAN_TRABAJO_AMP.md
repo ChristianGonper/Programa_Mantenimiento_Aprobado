@@ -15,7 +15,7 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
 | 3. Documentos de referencia | Completado con limitacion | `trazabilidad/02_manuales_aplicables.md`, AMP seccion 7 |
 | 4. Programa base de inspecciones | Completado | `trazabilidad/03_programa_inspecciones.md`, AMP 8.1, Excel `Tasks` |
 | 5. Inspecciones especiales | Completado | AMP 8.2, Excel `Special Points Test/Tasks` |
-| 6. Limpieza, lubricacion y servicing | Pendiente | AMP apartado servicing, Excel `Tasks` |
+| 6. Limpieza, lubricacion y servicing | Completado | AMP apartado servicing, Excel `Tasks` |
 | 7. Componentes vida limite / TBO / OH | Pendiente | AMP 10.1/10.2, Excel `Life Limit Comp` |
 | 8. ADs aeronave y motor | Pendiente | AMP 10.3/11, Excel `ADs` |
 | 9. Excel funcional | En curso | Formulas, `Next due`, `to go`, alertas |
@@ -67,6 +67,7 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
    - Rellenar AMP 10.3/11 y Excel `ADs`.
 
 9. **Excel funcional**
+   - Rellenar `Flight Log` con datos simulados para el trabajo academico.
    - Revisar `Flight Log` como fuente maestra de FH/ciclos/aterrizajes.
    - Verificar formulas de `Next due` y `to go`.
    - Mantener nombres, intervalos y referencias identicos entre AMP y Excel.

@@ -148,14 +148,19 @@ En esta sección también se deben enumerar los requisitos extraídos de las dis
 
 Los periodos de inspección, limpieza, engrase, lubricación, relleno, ajuste y prueba de componentes son los incluidos en la documentación referenciada a continuación:
 
-***Aircraft Service Manual (AMM):** P/N XXXX  Ed.XX /Rev XX, Section XX “ de fecha: Revisión XX-XX-XX. **(ver Anexo 4\)***
+***Aircraft Maintenance Manual (AMM):** SOCATA TB 10 Maintenance Manual, P/N Z00.18010310E0R18, Rev. 18 SEP 06. Referencias principales: 05-20-01 (GA), ATA 12-10, 12-20 y ATA 20-00. **(ver trazabilidad/04_lubricacion_servicing.md)***
 
 | Descripción | Intervalo | Ampliación | Referencia |
 | :---- | :---- | :---- | :---- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Drain oil system, replace/check filter and clean crankcase strainer | First engine 10 FH and 25 FH or 4 months; then 50 FH or 4 months | 5 FH o 15 días para VP50 | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 203, ATA 12-10 |
+| Drain fuel tanks and fuel system, ventilate | Major 2000 FH and Annual | 2 meses para anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 203, ATA 12-10 |
+| Clean exterior surface and inspect for corrosion | 100 FH, Major 2000 FH and Annual | 10 FH para 100 h; 2 meses para anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 203, ATA 12-20 |
+| Clean engine | 100 FH, Major 2000 FH and Annual | 10 FH para 100 h; 2 meses para anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 203, ATA 12-20 |
+| Reinforce anticorrosion protection / lubricate cockpit-fuselage and landing gear areas | 50 FH, 100 FH, Major 2000 FH and Annual | 5 FH/15 días para 50 h; 10 FH para 100 h; 2 meses anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Pages 203-204, ATA 20-00 |
+| Reinforce anticorrosion protection / lubricate stabilizers, wings and engine compartment areas | 100 FH, Major 2000 FH and Annual | 10 FH para 100 h; 2 meses anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 204, ATA 20-00 |
+| Lubricate bearings and wheel axles | Major 2000 FH and Annual | 2 meses para anual | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 219, ATA 32-40 |
+| Lubricate door locking mechanisms | Major 2000 FH | Regla general de tolerancias | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 224, ATA 52-10 |
+| Lubricate inside of elevator balancing boom | Major 2000 FH | Regla general de tolerancias | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 (GA) Page 227, ATA 55-20 |
 
 # **9\. DESVIACIONES Y JUSTIFICACIONES**
 
