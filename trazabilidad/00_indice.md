@@ -44,3 +44,4 @@ Proyecto: AMP Parte-ML y control de aeronavegabilidad para DAHER AEROSPACE / Soc
 | ADs celula | `06_ads_celula.md` | Completado |
 | ADs motor | `07_ads_motor.md` | Completado |
 | Excel funcional | `08_excel_funcional.md` | Completado con datos simulados |
+| Revision final | `09_revision_final_rubrica.md` | Completado |

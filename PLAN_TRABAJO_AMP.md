@@ -19,7 +19,7 @@ No rellenar una seccion del AMP o del Excel hasta que exista su evidencia en `tr
 | 7. Componentes vida limite / TBO / OH | Completado | AMP 10.1/10.2, Excel `Life Limit Comp` |
 | 8. ADs aeronave y motor | Completado | AMP 10.3/11, Excel `ADs` |
 | 9. Excel funcional | Completado | `Flight Log` simulado, formulas, `Next due`, `to go`, alertas |
-| 10. Revision final contra rubrica | Pendiente | Entrega coherente AMP + Excel |
+| 10. Revision final contra rubrica | Completado | Entrega coherente AMP + Excel |
 
 ## Orden de ejecucion
 

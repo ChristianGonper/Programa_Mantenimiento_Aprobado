@@ -42,4 +42,4 @@ Pregunta:
 
 ## Nota de rubrica
 
-El Excel debe conservar tambien las ADs no aplicables o inciertas con motivo en `Remarcks`, porque la rubrica valora justificar aplicabilidad y no aplicabilidad.
+El Excel debe conservar tambien las ADs no aplicables o inciertas con motivo en `Remarks`, porque la rubrica valora justificar aplicabilidad y no aplicabilidad.
