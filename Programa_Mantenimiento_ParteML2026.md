@@ -8,7 +8,7 @@ Basado en el Reglamento (UE) Nº 1321/2014 \- Parte-ML
 
 **NOMBRE DEL PROGRAMA:** Programa de Mantenimiento Aprobado - Socata TB 10 S/N 649
 
-**EFECTUADO POR:** Grupo de trabajo académico
+**EFECTUADO POR:** Grupo 7 - González Pérez Christian; Alba Buitrón Guillermo y Gil Getino Alejandro
 
 # **1\. INTRODUCCIÓN**
 
@@ -33,7 +33,7 @@ El registro de revisiones permite controlar formalmente la configuración del AM
 | Registro de las revisiones periódicas del Programa de Mantenimiento de la Aeronave | Fecha | Motivo | Aprobación |
 | :---- | :---- | :---- | :---- |
 | **Revisión** | **Fecha** | **Motivo del Cambio** | **Aprobado por** |
-| 0 | 10/05/2026 | Emisión inicial del AMP académico para Socata TB 10 S/N 649. Incluye identificación de configuración, programa base, servicing, vida límite/TBO y ADs según documentación trazada. | Grupo de trabajo académico |
+| 0 | 10/05/2026 | Emisión inicial del AMP académico para Socata TB 10 S/N 649. Incluye identificación de configuración, programa base, servicing, vida límite/TBO y ADs según documentación trazada. | Grupo 7 |
 | 1 | Reservado | Futuras enmiendas por revisión documental, cambio de configuración, AD nueva/revisada, modificación, experiencia en servicio o variación aprobada del programa. | N/A |
 
 # **4\. LISTA DE PÁGINAS EFECTIVAS (LEP)**
