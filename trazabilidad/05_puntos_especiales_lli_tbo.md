@@ -106,3 +106,28 @@ Resultado usado:
 ## Seleccion para AMP 10.1 / Excel Life Limit Comp
 
 Para mantener el trabajo defendible y manejable, se vuelcan los elementos representativos con intervalo claro y aplicabilidad directa: motor, accesorios principales, emergencia/vacio, puertas y mangueras. Las inspecciones puras se controlan en `Tasks`, no en `Life Limit Comp`.
+
+## Consulta 4 - Airworthiness Limitations / service life
+
+Cuaderno: `Manuales_Socata` (`e9b2a1bb-aa57-45d5-8ee2-cc4e34d5f4c4`)
+
+Fecha: 2026-05-11
+
+Pregunta:
+
+> En el SOCATA TB 10 Maintenance Manual Rev.18, dentro de Time Limits / Airworthiness Limitations, lista todos los items bajo STRUCTURE SERVICE LIFE y todos los items bajo ENGINE MOUNT AND LANDING GEAR MOUNT SERVICE LIFE. Incluye intervalo, modelo/aplicabilidad, página exacta y referencia.
+
+Resultado usado:
+
+| Item | Modelo / aplicabilidad | Limite | Referencia | Excel |
+|---|---|---:|---|---|
+| L.H. wing structure assembly | TB10 11000 / 11006 / 11009 series pre-MOD.152; TB10 11040 series post-MOD.152 | 14600 FH | `3697 TB10 MM.pdf`, 04-00-00 (DC) Page 3 | `Life Limit Comp` ALI |
+| R.H. wing structure assembly | TB10 11000 / 11006 / 11009 series pre-MOD.152; TB10 11040 series post-MOD.152 | 14600 FH | `3697 TB10 MM.pdf`, 04-00-00 (DC) Page 3 | `Life Limit Comp` ALI |
+| Engine mount | TB10 51000000 / 51002000; T200 51001000 / 51000000 | 10000 FH | `3697 TB10 MM.pdf`, 04-00-00 (DC) Page 3 | `Life Limit Comp` ALI |
+| Nose landing gear mount | TB10 42010001 / 42010003 / 4201000549 | 10000 FH | `3697 TB10 MM.pdf`, 04-00-00 (DC) Page 3 | `Life Limit Comp` ALI |
+
+Decision:
+
+- Se sustituyo la fila combinada previa de `Engine and Nose Landing Gear mounts` por dos filas independientes.
+- Se añadieron las dos estructuras de ala bajo `STRUCTURE SERVICE LIFE`.
+- Estos elementos se tratan como `Discard / Airworthiness Limitation` y no admiten tolerancia ni extension.

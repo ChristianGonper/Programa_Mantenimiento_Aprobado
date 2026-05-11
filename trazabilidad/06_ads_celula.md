@@ -2,6 +2,8 @@
 
 Cuaderno disponible: `Directivas_Aeronave` (`38c480ef-7d81-43ab-ae7f-2d5e9c5af8bb`).
 
+Cuaderno adicional para ADs no aplicables: `Directivas_Aeronave_no_aplicables` (`4dd19a89-8f0b-4f58-a236-aadcb3967db1`).
+
 ## Consulta 1 - Aplicabilidad ADs aeronave
 
 Fecha: 2026-05-11
@@ -43,3 +45,29 @@ Pregunta:
 ## Nota de rubrica
 
 El Excel debe conservar tambien las ADs no aplicables o inciertas con motivo en `Remarks`, porque la rubrica valora justificar aplicabilidad y no aplicabilidad.
+
+## Consulta 2 - ADs de celula no aplicables adicionales
+
+Fecha: 2026-05-11
+
+Cuaderno: `Directivas_Aeronave_no_aplicables` (`4dd19a89-8f0b-4f58-a236-aadcb3967db1`)
+
+Pregunta:
+
+> Lista todas las directivas de aeronavegabilidad de célula TB aplicables a Socata/TB que NO aplican a nuestra aeronave Socata TB 10 S/N 649 año 1988. Para cada AD indica número AD, autoridad, asunto, motivo exacto de no aplicabilidad y si el motivo es por número de serie, por fecha/model year anterior, o por equipo no instalado. Devuelve una tabla concisa.
+
+Resultado usado en Excel `ADs`:
+
+| AD | Autoridad | Asunto | Motivo N/A escrito en Remarks |
+|---|---|---|---|
+| DGAC F-1981-202 / 81-202-(A) | DGAC / Bureau Veritas | Forward CG limit / flap actuator modification | N/A por ser previa a nuestra aeronave: aplica a S/N 1-239; S/N 649 año 1988 queda fuera y la modificación viene de serie |
+| DGAC F-1994-249R1 | DGAC | Wing rear attachment fittings | N/A por numero de serie: S/N 649 no incluido |
+| DGAC F-1999-319 | DGAC | Vertical stabilizer forward junction doubler | N/A por numero de serie/configuracion segun analisis academico |
+| DGAC F-2001-307 | DGAC | Door hinge attachment on upper fuselage | N/A por numero de serie: S/N 649 no incluido |
+| DGAC F-2003-285 | DGAC | Nose gear fork | N/A por numero de serie: S/N 649 no incluido |
+
+Decision:
+
+- Se añadieron estas ADs al bloque Aircraft del Excel `ADs`, sin intervalos de control porque no aplican.
+- La AD de 1981 se justifica por ser previa a nuestra aeronave y venir la modificación de serie, segun indicacion del usuario.
+- Las demas se justifican como `N/A por numero de serie`, salvo la 1999-319 que se deja como `N/A por numero de serie/configuracion` para mantener la nota de analisis academico.

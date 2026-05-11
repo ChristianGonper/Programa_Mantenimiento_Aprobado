@@ -10,6 +10,7 @@ Proyecto: AMP Parte-ML y control de aeronavegabilidad para DAHER AEROSPACE / Soc
 | Docs_motor | 4f797c56-3b53-442d-8e07-292a40231080 | Documentacion de motor Lycoming O-360-A1AD | Disponible |
 | Directivas_motor | c9960318-a98c-44ca-80eb-82a2eaa37645 | Directivas de aeronavegabilidad de motor | Disponible |
 | Directivas_Aeronave | 38c480ef-7d81-43ab-ae7f-2d5e9c5af8bb | Directivas de aeronavegabilidad de celula | Disponible |
+| Directivas_Aeronave_no_aplicables | 4dd19a89-8f0b-4f58-a236-aadcb3967db1 | ADs de celula no aplicables para justificar N/A en Excel | Disponible |
 
 ## Fuentes actuales en Manuales_Socata
 

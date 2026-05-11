@@ -71,3 +71,25 @@ Decision:
 
 - Para la seccion 7 del AMP se incluiran el Operator's Manual P/N 60297-12, el TCDS E-286 Rev. 21 y SI 1009BE para TBO.
 - No se incorporan otros SB de aeronave o motor por decision de alcance del usuario.
+
+## Consulta 3 - Utilizacion anual de referencia
+
+Cuaderno: `Manuales_Socata` (`e9b2a1bb-aa57-45d5-8ee2-cc4e34d5f4c4`)
+
+Fecha: 2026-05-11
+
+Pregunta:
+
+> En el SOCATA TB 10 Maintenance Manual Rev.18 disponible, ¿en qué sección y página exacta aparece la referencia a la utilización anual prevista / anticipated utilization / annual utilization que se usa para el AMP? Devuelve título de documento, capítulo/sección, página exacta y texto resumido.
+
+Resultado usado:
+
+- Fuente: `3697 TB10 MM.pdf`, SOCATA TB 10 Maintenance Manual, P/N Z00.18010310E0R18.
+- Capitulo/seccion: 05-20-00 (BA), `Scheduled Inspections`, parrafo `Inspection Calendar`.
+- Pagina exacta: Page 1.
+- Dato usado: Nota 1 indica que la Annual Inspection puede reducirse si las horas de operacion de la aeronave exceden 100 h/año.
+
+Decision:
+
+- Para el AMP se toma 100 FH/año como hipotesis academica de utilizacion normal, con ciclos y aterrizajes simulados para el `Flight Log`.
+- La referencia documental se escribe en la seccion 6 del AMP como AMM Rev.18, 05-20-00 (BA) Page 1, Note 1.

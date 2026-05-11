@@ -22,17 +22,19 @@ El presente Programa de Mantenimiento (AMP) define las tareas necesarias para as
 | Modelo | TB 10 |
 | Número de Serie | 649 |
 | Año de Fabricación | 1988 |
-| Matrícula | EC-SIM (simulada para el trabajo académico) |
+| Matrícula | EC-SIM |
 | Modelo de Motor (Basado en el TCDS) | Textron Lycoming O-360-A1AD |
 | Modelo de Hélice (Basado en el TCDS) | Hartzell HC-C2YK-1BF/F 7666 A-2 |
 
 # **3\. REGISTRO DE REVISIONES DEL PROGRAMA**
 
+El registro de revisiones permite controlar formalmente la configuración del AMP. Cada cambio debe quedar identificado con número de revisión, fecha, motivo técnico o documental, aprobación y alcance, de forma que el propietario/CAO/CAMO pueda demostrar qué versión del programa estaba vigente y qué documentación justificó cada enmienda.
+
 | Registro de las revisiones periódicas del Programa de Mantenimiento de la Aeronave | Fecha | Motivo | Aprobación |
 | :---- | :---- | :---- | :---- |
 | **Revisión** | **Fecha** | **Motivo del Cambio** | **Aprobado por** |
-| 0 | 10/05/2026 | Emisión Inicial | Grupo 1 |
-| 1 | Reservado | Futuras enmiendas del programa | N/A |
+| 0 | 10/05/2026 | Emisión inicial del AMP académico para Socata TB 10 S/N 649. Incluye identificación de configuración, programa base, servicing, vida límite/TBO y ADs según documentación trazada. | Grupo de trabajo académico |
+| 1 | Reservado | Futuras enmiendas por revisión documental, cambio de configuración, AD nueva/revisada, modificación, experiencia en servicio o variación aprobada del programa. | N/A |
 
 # **4\. LISTA DE PÁGINAS EFECTIVAS (LEP)**
 
@@ -68,19 +70,19 @@ El presente AMP aplica a aeronaves ligeras de ala fija, helicópteros o planeado
 
 Definición del rango de utilización anual normal o típico de la aeronave definido por las Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH
 
-La base del programa se establece considerando una utilización anual simulada de **100 horas de vuelo/año**, **80 vuelos/ciclos/año** y **90 aterrizajes/año**, con una tolerancia del ±25%. Esta utilización se emplea como hipótesis académica para alimentar el `Flight Log` y el libro de control de aeronavegabilidad.
+La base del programa se establece considerando una utilización anual de **100 horas de vuelo/año**, **80 vuelos/ciclos/año** y **90 aterrizajes/año**, con una tolerancia del ±25%.
 
 En caso de desviaciones significativas, se revisará el AMP.
 
-Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH: SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18, Rev. 18 SEP 06.
+Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH: SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18, Rev. 18 SEP 06, Chapter 05-20-00 (BA) "Scheduled Inspections", Page 1, Note 1. La nota indica que la inspección anual puede reducirse si la aeronave excede 100 FH/año; por ello se toma 100 FH/año como hipótesis académica de utilización normal.
 
 # **7\. BASE DEL AMP \- DOCUMENTOS DE REFERENCIA**
 
 | Documento | Referencia | Edición/Fecha |
 | :---- | ----- | ----- |
-| **Manual de Mantenimiento de Aeronave (AMM)** | SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18. Base documental disponible para este trabajo academico. Limitacion: el TCDS EASA.A.378 exige Rev. 19 o posterior, pero no esta disponible en la documentacion facilitada. | Rev. 18, SEP 06 |
+| **Manual de Mantenimiento de Aeronave (AMM)** | SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18. Limitación: el TCDS EASA.A.378 exige Rev. 19 o posterior, pero no está disponible en la documentación facilitada. | Rev. 18, SEP 06 |
 | **Manual de Motor** | Operator's Manual Lycoming O-360, HO-360, IO-360, AIO-360, HIO-360 & TIO-360 Series, P/N 60297-12. Aplicable a O-360-A1AD. | 8th Edition, Oct 2005; revision pages through Dec 2009 |
-| ~~Manual de Hélice~~ | Hartzell HC-C2YK-1BF/F 7666 A-2 referenciada por TCDS EASA.A.378 y AMM. No se profundiza por indicacion del profesor. | Referencia de configuracion, sin manual especifico |
+| **Manual de Hélice** | Hartzell HC-C2YK-1BF/F 7666 A-2 referenciada por TCDS EASA.A.378 y AMM. No se profundiza por indicación del profesor. | Referencia de configuración, sin manual específico |
 | **Airworthiness Limitations / Time Limits** | SOCATA TB 10 Maintenance Manual Rev. 18, Chapter 05-10-00 Time Limits. Limitación: el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible para este trabajo académico. | Rev. 18, SEP 06 |
 | **Service Bulletins (SB) aplicables** | No se consideran otros Service Bulletins de aeronave o motor por alcance académico del trabajo. | N/A |
 | **TCDS motor** | FAA TCDS E-286, Lycoming Engines O-360 series. Incluye O-360-A1AD. | Rev. 21, 30 Apr 2013 |
@@ -97,7 +99,7 @@ En este apartado se indica la relación de las inspecciones del programa base de
 | Inspección “A” First 25 hours | Carta de inspección inicial 25 h | 25 FH iniciales | 5 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-02 |
 | Inspección “2A” / VP50 | Carta de inspección 50 h | 50 FH o 6 meses, lo que antes ocurra | 5 FH o 15 días | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-03 |
 | Inspección “4A” / VP100 | Carta de inspección 100 h | 100 FH | 10 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-04 |
-| Inspección mayor “80A” | Major Inspection | 2000 FH | Sin tolerancia indicada en la extracción | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1 y 05-20-05 |
+| Inspección mayor “80A” | Major Inspection | 2000 FH | N/A | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1 y 05-20-05 |
 | Annual Inspection (AI) | Inspección anual por envejecimiento y tareas calendarizadas | 12 meses | 2 meses | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1 y 05-20-06 |
 
 Las tolerancias no son acumulables y el tiempo entre dos inspecciones del mismo tipo no puede exceder el intervalo más la tolerancia. Cuando existan límites por horas y calendario, aplica el que venza antes. La inspección anual se integra en el ciclo de inspecciones; si se ha realizado una inspección de 100 h en los tres meses anteriores, el AMM permite no repetir determinadas operaciones marcadas con “0”, salvo que la inspección anual sustituya a una inspección de 100 h.
@@ -190,11 +192,18 @@ Nota: **No se permite ninguna variación ni extensión** en los componentes para
 
 La sección de limitaciones de aeronavegabilidad está aprobada por las autoridades de aeronavegabilidad:  EASA especifica el mantenimiento requeridos según las partes **CS23.1529** y 023.4 del Apéndice G. La sección de limitaciones de aeronavegabilidad también está aprobada por la FAA  y especifica el mantenimiento requerido según las secciones **43.16 y 91.403.**
 
-Para este trabajo académico se toma como base la documentación disponible en el cuaderno: SOCATA TB 10 Maintenance Manual Rev. 18, especialmente Chapter 05-10-00 Time Limits. Se deja indicada la limitación documental de que el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible en las fuentes facilitadas. Por tanto, no se aplica ninguna extensión a componentes con límite final, overhaul o descarte sin justificación específica.
+Para este trabajo académico se toma como base la documentación disponible en el cuaderno: SOCATA TB 10 Maintenance Manual Rev. 18, especialmente Chapter 04-00-00 (DC) Airworthiness Limitations y Chapter 05-10-00 Time Limits. Se deja indicada la limitación documental de que el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible en las fuentes facilitadas. Por tanto, no se aplica ninguna extensión a componentes con límite final, overhaul o descarte sin justificación específica.
+
+| Elemento ALI | Modelo / aplicabilidad | Límite | Documento de referencia | Observaciones |
+| :---- | :---- | :---: | :---- | :---- |
+| L.H. wing structure assembly | TB10 11000 / 11006 / 11009 series pre-MOD.152; TB10 11040 series post-MOD.152 | 14600 FH | SOCATA TB 10 MM Rev.18, 04-00-00 (DC) Page 3 | Structure service life |
+| R.H. wing structure assembly | TB10 11000 / 11006 / 11009 series pre-MOD.152; TB10 11040 series post-MOD.152 | 14600 FH | SOCATA TB 10 MM Rev.18, 04-00-00 (DC) Page 3 | Structure service life |
+| Engine mount | TB10 51000000 / 51002000; T200 51001000 / 51000000 | 10000 FH | SOCATA TB 10 MM Rev.18, 04-00-00 (DC) Page 3 | Engine mount service life |
+| Nose landing gear mount | TB10 42010001 / 42010003 / 4201000549 | 10000 FH | SOCATA TB 10 MM Rev.18, 04-00-00 (DC) Page 3 | Landing gear mount service life |
 
 ## **10.3. Requisitos de mantenimiento repetitivo debido a directivas de aeronavegabilidad**
 
-Mantenimiento debido a las Directivas repetitivas de **AERONAVE/CELULA**: (Fuente: FAA  y EASA airworthiness directives, Service Bulletins, Modificación / STC ):
+Mantenimiento debido a las Directivas repetitivas de Socata **TB 10 s/n 649**: (Fuente: FAA  y EASA airworthiness directives, Service Bulletins, Modificación / STC ):
 
 | Referencia del Documento  (AD, SB, Mod, Repair, STC) | Autoridad, TCH o DOA que lo origina | Descripción | Periodicidad |
 | :---- | ----- | :---- | ----- |
@@ -205,7 +214,7 @@ Mantenimiento debido a las Directivas repetitivas de **AERONAVE/CELULA**: (Fuent
 | DGAC France AD F-1994-265R4 | DGAC France | Main landing gear support ribs - inspection, aplicable si Case A | 1500 LDG o 1000 FH, lo que antes ocurra |
 | DGAC France AD F-2003-368R2 | DGAC France | Flight controls gimbal joints - aileron/elevator control inspection, si no hay terminating action | 110 FH o 14 meses, lo que antes ocurra |
 
-Listado de Directivas repetitivas de **MOTOR**: (Fuente: FAA  y EASA airworthiness directives, Service Bulletins, Modificación / STC ):
+Listado de Directivas repetitivas de **Textron Lycoming O-360-A1AD**: (Fuente: FAA  y EASA airworthiness directives, Service Bulletins, Modificación / STC ):
 
 | Referencia del Documento  (AD, SB, Mod, Repair, STC) | Autoridad, TCH o DOA que lo origina | Descripción | Periodicidad |
 | :---- | ----- | :---- | ----- |

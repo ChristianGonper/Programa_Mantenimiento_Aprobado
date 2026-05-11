@@ -56,3 +56,12 @@ Fecha de revisión: 11/05/2026.
 - `Flight Log` y datos de cumplimiento previo son simulados.
 - Hélice tratada a nivel de identificación suficiente por indicación del profesor.
 - No se incluyen otros Service Bulletins de motor o aeronave salvo nueva indicación del usuario/profesor.
+
+## Revisión posterior solicitada por el usuario
+
+Fecha: 11/05/2026.
+
+- Se reforzó la sección 3 del AMP explicando la función del registro de revisiones y el alcance de la revisión 0.
+- Se añadió en la sección 6 del AMP la página exacta de la referencia de utilización: AMM Rev.18, 05-20-00 (BA), Page 1, Note 1.
+- Se incorporaron en el Excel las ADs no aplicables del cuaderno `Directivas_Aeronave_no_aplicables`.
+- Se corrigió el bloque `AIRWORTHINESS LIMITATIONS Items` del Excel para separar `STRUCTURE SERVICE LIFE` y `ENGINE MOUNT AND LANDING GEAR MOUNT SERVICE LIFE`.
