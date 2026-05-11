@@ -215,9 +215,12 @@ Mantenimiento debido a las Directivas repetitivas de **AERONAVE/CELULA**: (Fuent
 
 | Referencia del Documento  (AD, SB, Mod, Repair, STC) | Autoridad, TCH o DOA que lo origina | Descripción | Periodicidad |
 | :---- | ----- | :---- | ----- |
-| AD  2025-11-13 | FAA | Ground power electrical cable | 12 meses/ 100 FH |
-|  |  |  |  |
-|  |  |  |  |
+| EASA AD 2007-0101 | EASA | Cabin access door hooks - inspection/replacement, aplicabilidad condicionada a ganchos de aluminio/AU4G instalados | 110 FH hasta terminating action |
+| EASA AD 2015-0130 | EASA | Horizontal stabilizer spar - special detailed inspection/corrosion protection | 72 meses |
+| EASA AD 2018-0030R1 | EASA | Wing front attachments - inspection/modification/replacement | 2000 FH o 3000 LDG, lo que antes ocurra; otras acciones segun grupo/estado |
+| EASA AD 2025-0160 | EASA | Lower rudder hinge fitting - inspection | 12 meses |
+| DGAC France AD F-1994-265R4 | DGAC France | Main landing gear support ribs - inspection, aplicable si Case A | 1500 LDG o 1000 FH, lo que antes ocurra |
+| DGAC France AD F-2003-368R2 | DGAC France | Flight controls gimbal joints - aileron/elevator control inspection, si no hay terminating action | 110 FH o 14 meses, lo que antes ocurra |
 
 Listado de Directivas repetitivas de **MOTOR**: (Fuente: FAA  y EASA airworthiness directives, Service Bulletins, Modificación / STC ):
 
