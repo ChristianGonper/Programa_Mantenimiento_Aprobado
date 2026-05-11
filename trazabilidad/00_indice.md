@@ -42,4 +42,4 @@ Proyecto: AMP Parte-ML y control de aeronavegabilidad para DAHER AEROSPACE / Soc
 | Lubricacion/servicing | `04_lubricacion_servicing.md` | Completado |
 | Especiales/LLP/TBO | `05_puntos_especiales_lli_tbo.md` | Completado |
 | ADs celula | `06_ads_celula.md` | Completado |
-| ADs motor | `07_ads_motor.md` | Disponible, pendiente analisis |
+| ADs motor | `07_ads_motor.md` | Completado |

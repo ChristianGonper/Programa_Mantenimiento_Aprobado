@@ -226,9 +226,11 @@ Listado de Directivas repetitivas de **MOTOR**: (Fuente: FAA  y EASA airworthine
 
 | Referencia del Documento  (AD, SB, Mod, Repair, STC) | Autoridad, TCH o DOA que lo origina | Descripción | Periodicidad |
 | :---- | ----- | :---- | ----- |
-| AD  2025-11-13 | FAA | Ground power electrical cable | 12 meses/ 100 FH |
-|  |  |  |  |
-|  |  |  |  |
+| EASA AD 2005-0023R3 | EASA | Lycoming exhaust valve and guide inspection | 440 operating hours si no hay Hi-Chrome guides |
+| FAA AD 2002-12-07 | FAA | Oil filter converter plate gasket, aplicable si motor/kit/gasket afectado | 50 h TIS hasta terminating action |
+| FAA AD 2008-19-05 | FAA | ECi Titan cylinder assemblies, si cilindros afectados instalados | 50 h TIS |
+| FAA AD 2009-26-12 | FAA | ECi Titan cylinder assemblies, si cilindros afectados instalados | 50 h TIS |
+| FAA AD 2026-04-11 | FAA | Connecting rod bushings, si piezas afectadas instaladas | Cada oil change hasta terminating replacement |
 
 # **Referencias:** 
 
