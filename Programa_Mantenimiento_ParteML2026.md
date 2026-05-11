@@ -6,9 +6,9 @@
 
 Basado en el Reglamento (UE) Nº 1321/2014 \- Parte-ML
 
-**NOMBRE DEL PROGRAMA:** \[Ej. Grupo 1 \- Cessna 172N\]
+**NOMBRE DEL PROGRAMA:** Programa de Mantenimiento Aprobado - Socata TB 10 S/N 649
 
-**EFECTUADO POR:** \[Nombre y Apellidos de los miembros del grupo\]
+**EFECTUADO POR:** Nombre y Apellidos de los miembros del grupo
 
 # **1\. INTRODUCCIÓN**
 
@@ -18,21 +18,21 @@ El presente Programa de Mantenimiento (AMP) define las tareas necesarias para as
 
 | Campo | Descripción |
 | :---- | :---- |
-| Fabricante | \[Ej. Cessna Aircraft Company\] |
-| Modelo | \[C- 172N\] |
-| Número de Serie | 172-112345 |
-| Año de Fabricación | \[AAAA\] |
+| Fabricante | DAHER AEROSPACE / Socata |
+| Modelo | TB 10 |
+| Número de Serie | 649 |
+| Año de Fabricación | 1988 |
 | Matrícula | \[EC-XXX\] |
-| Modelo de Motor (Basado en el TCDS) | \[Ej. Lycoming O-320-H2AD\] |
-| Modelo de Hélice (Basado en el TCDS) | \[Ej. McCauley 1C160/DTM\] |
+| Modelo de Motor (Basado en el TCDS) | Textron Lycoming O-360-A1AD |
+| Modelo de Hélice (Basado en el TCDS) | Hartzell HC-C2YK-1BF/F 7666 A-2 |
 
 # **3\. REGISTRO DE REVISIONES DEL PROGRAMA**
 
 | Registro de las revisiones periódicas del Programa de Mantenimiento de la Aeronave (de acuerdo con M.A.302(g) o M.A.302(h)5, según corresponda) |  |  |  |
 | :---- | :---- | :---- | :---- |
 | **Revisión** | **Fecha** | **Motivo del Cambio** | **Aprobado por** |
-| 0 | \[DD/MM/AAAA\] | Emisión Inicial | Grupo 1 |
-| 1 | \[DD/MM/AAAA\] | \[Ej. Actualización de intervalos de motor\] |  |
+| 0 | 10/05/2026 | Emisión Inicial | Grupo 1 |
+| 1 | DD/MM/AAAA | Ej. Actualización de intervalos de motor |  |
 |  |  |  |  |
 
 # **4\. LISTA DE PÁGINAS EFECTIVAS (LEP)**
@@ -80,12 +80,13 @@ Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH, o I
 
 | Documento | Referencia | Edición/Fecha |
 | :---- | ----- | ----- |
-| **Manual de Mantenimiento de Aeronave (AMM)** |  |  |
-| **Manual de Motor** |  |  |
-| ~~Manual de Hélice~~ |  |  |
+| **Manual de Mantenimiento de Aeronave (AMM)** | SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18. Base documental disponible para este trabajo academico. Limitacion: el TCDS EASA.A.378 exige Rev. 19 o posterior, pero no esta disponible en la documentacion facilitada. | Rev. 18, SEP 06 |
+| **Manual de Motor** | Operator's Manual Lycoming O-360, HO-360, IO-360, AIO-360, HIO-360 & TIO-360 Series, P/N 60297-12. Aplicable a O-360-A1AD. | 8th Edition, Oct 2005; revision pages through Dec 2009 |
+| ~~Manual de Hélice~~ | Hartzell HC-C2YK-1BF/F 7666 A-2 referenciada por TCDS EASA.A.378 y AMM. No se profundiza por indicacion del profesor. | Referencia de configuracion, sin manual especifico |
 | ~~Airworthiness Limitations (ALS)~~ |  |  |
-| **Service Bulletins (SB) aplicables** (SI se utilizan los SB de Lycoming o Continental) |  |  |
-|  |  |  |
+| **Service Bulletins (SB) aplicables** (SI se utilizan los SB de Lycoming o Continental) | No se consideran otros Service Bulletins de aeronave o motor por alcance academico del trabajo. | N/A |
+| **TCDS motor** | FAA TCDS E-286, Lycoming Engines O-360 series. Incluye O-360-A1AD. | Rev. 21, 30 Apr 2013 |
+| **TBO motor** | Lycoming Service Instruction No. 1009BE, Time Between Overhaul (TBO) Schedules. O-360 except O-360-E: 2000 h. | 24 Apr 2020 |
 |  |  |  |
 
 # **8\. MANTENIMIENTO PROGRAMADO**
@@ -97,32 +98,27 @@ En este apartado se indica la relación de las inspecciones del programa base de
 | Inspecciones o revisiones normales de mantenimiento programado. |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: |
 | **Nombre de la inspección** | **Contenido** | **Intervalo** | **Ampliación** | **Referencia** |
-| LINEA o  tipo “A” o 50 horas | Anexo 2 | 50 horas | 5 horas | CESSNA 182 SERIES SERVICE MANUAL **pag 20-3** |
-| BÁSICA o  tipo “B” o 100 horas |  | 100  horas | 10 horas | CESSNA 182 SERIES SERVICE MANUAL **pag 20-3** |
-| PERIÓDICA o  tipo “C” o 200  horas o 12 meses |  | 200 horas/1 año (lo que antes ocurra) | 20 horas/1mes | CESSNA 182 SERIES SERVICE MANUAL **pag 20-3** |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Inspección “A” First 25 hours | Carta de inspección inicial 25 h | 25 FH iniciales | 5 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-02 |
+| Inspección “2A” / VP50 | Carta de inspección 50 h | 50 FH o 6 meses, lo que antes ocurra | 5 FH o 15 días | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-03 |
+| Inspección “4A” / VP100 | Carta de inspección 100 h | 100 FH | 10 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1-2 y 05-20-04 |
+| Inspección mayor “80A” | Major Inspection | 2000 FH | Sin tolerancia indicada en la extracción | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1 y 05-20-05 |
+| Annual Inspection (AI) | Inspección anual por envejecimiento y tareas calendarizadas | 12 meses | 2 meses | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Page 1 y 05-20-06 |
+
+Las tolerancias no son acumulables y el tiempo entre dos inspecciones del mismo tipo no puede exceder el intervalo más la tolerancia. Cuando existan límites por horas y calendario, aplica el que venza antes. La inspección anual se integra en el ciclo de inspecciones; si se ha realizado una inspección de 100 h en los tres meses anteriores, el AMM permite no repetir determinadas operaciones marcadas con “0”, salvo que la inspección anual sustituya a una inspección de 100 h.
 
 ## **8.2 Inspecciones Especiales**	
 
 | INSPECCIONES ESPECIALES, FUERA DE LAS REVISIONES ESTANDAR |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: |
 | **Nombre de la inspección** | **Contenido** | **Intervalo** | **Ampliación** | **Referencia** |
-| Inspección Bisagras estabiliz horizontal | Anexo 3 | 3000  horas | 300 horas | CESSNA 182 SERIES SERVICE MANUAL pag 20-3 |
-| Inspeccion Flaps |  | Cada 3 años |  | CESSNA 182 SERIES SERVICE MANUAL pag 20-3 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Engine special inspection | Inspección especial de motor indicada por el AMM | 400 FH | 10 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Inspection Calendar; 05-20-01 Pages 234-235 |
+| 500 hrs special inspection | Bloque de inspección especial 500 h | 500 FH | 50 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Inspection Calendar |
+| 1000 hrs special inspection | Bloque de inspección especial 1000 h | 1000 FH | 50 FH | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-00 (BA) Inspection Calendar |
+| Brake hydraulic fluid change | Cambio de fluido hidráulico de frenos | 3 años | No indicada | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 Page 219 |
+| Fuel selector filtering element | Limpieza o sustitución del elemento filtrante del selector de combustible | 300 FH o 1 año | No indicada | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 Page 213 |
+| Flap actuator and supports | Inspección visual de fijaciones, remaches flojos y grietas | 500 FH | No indicada | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 Page 212 |
+| Flight control supports | Inspección visual de soportes de mandos de vuelo | 500 FH | No indicada | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 Page 225 |
+| Elevator hinge bearings | Inspección visual de rodamientos/bisagras de elevador | 1000 FH o 2 años | No indicada | SOCATA TB 10 Maintenance Manual Rev. 18, 05-20-01 Page 227 |
 
 ## **8.3 Requisitos Operacionales EASA**
 
@@ -226,5 +222,3 @@ Basado en la Guía EASA UG.CAMO.00010-001 (2023) y la Guía AESA AC-PMNA-P01-DT0
 \- **Anexo B:**   
 
 \- **Anexo C:**
-
-
