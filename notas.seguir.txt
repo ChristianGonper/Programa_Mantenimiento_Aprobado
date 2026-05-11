@@ -1,0 +1,11 @@
+ahora tienes un notebook con docs del motor que indicaste tú, y dos cuadernos con las ads del motor y del avión.
+
+Sobre el modelo de motor que teneimos, usa el que has inicado tu en primera instancia. No vamos a considerar service bulletins del motor  salvo indicación expresa del usuario posterior.
+
+Sobre la helice, el profesor indicó que no le diesemos muchas vueltas, que quedase con poder una. Esto se mantendrá así salvo indicación expresa posterior del usuario tras hablar con el profesor.
+
+De esta forma, quedan ahora los siguientes cuadernos con sus id y titulos
+4f797c56-3b53-442d-8e07-292a40231080 Docs_motor
+c9960318-a98c-44ca-80eb-82a2eaa37645 Directivas_motor
+38c480ef-7d81-43ab-ae7f-2d5e9c5af8bb Directivas_Aeronave
+e9b2a1bb-aa57-45d5-8ee2-cc4e34d5f4c4 Manuales_Socata
