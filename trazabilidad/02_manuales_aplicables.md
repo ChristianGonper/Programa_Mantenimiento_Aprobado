@@ -55,6 +55,7 @@ Resultado usado:
 |---|---|---|---|---|
 | Operator's Manual Lycoming O-360, HO-360, IO-360, AIO-360, HIO-360 & TIO-360 Series | P/N 60297-12 | 8th Edition, October 2005; revision pages through December 2009 | Incluye O-360-A1AD | Manual operativo/motor |
 | FAA TCDS E-286 Lycoming Engines O-360 series | E-286 | Rev. 21, 30 Apr 2013 | Lista O-360-A1AD | TCDS motor |
+| FAA Type Certificate Data Sheet Hartzell propellers | P-920 | Rev. 41, 12 Dec 2025 | Incluye HC-C2YK / F7666 con Lycoming O-360-A1AD | TCDS helice |
 | Parts Catalog Lycoming O-360-A Wide Cylinder Flange Models | PC-306-1 | PC-306-1B, July 1980; reprint Aug 1991 | Incluye O-360-A1AD | Referencia piezas |
 | Parts Catalog Textron Lycoming O, LO, TO-360 Series Wide Cylinder Flange Models | PC-306-2 | PC-306-2B, Aug 1981; revision page menciona Jun 2010 | Incluye O-360-A1AD | Referencia piezas |
 | Service Instruction Time Between Overhaul (TBO) Schedules | SI 1009BE | 24 Apr 2020 | O-360 except O-360-E: 2000 h | TBO motor |

@@ -65,6 +65,7 @@ Fuentes citadas por NotebookLM:
 | Ano de fabricacion | 1988 | `Informacion_preliminar.md` | Dato de asignacion |
 | TCDS EASA aeronave | EASA.A.378 Issue 05 | `TCDS EASA.A.378 Issue 05.pdf`, Page 1 | Validado para fase 1 |
 | TCDS FAA aeronave | A51EU Rev. 18 | `A51EU_Rev18.pdf`, Pages 1-6 | Validado para fase 1 |
+| TCDS FAA helice | P-920 Rev. 41 | `P-920_rev41.pdf`, Page 1; Page 9 | Validado tras subida del TCDS FAA de helice |
 | Modelo de motor | Textron Lycoming O-360-A1AD (14 V para S/N 649) | `TCDS EASA.A.378 Issue 05.pdf`, Page 10, Section A.III.5.1; `3697 TB10 MM.pdf`, 05-10-00 (DA), Page 4 | Validado para fase 1 |
 | Modelo de helice | Hartzell HC-C2YK-1BF/F 7666 A-2 | `TCDS EASA.A.378 Issue 05.pdf`, Page 11, Section A.III.7.1; `3697 TB10 MM.pdf`, 05-10-00 (DA), Page 4 | Validado para fase 1 |
 
@@ -72,4 +73,25 @@ Fuentes citadas por NotebookLM:
 
 - Se adopta `Textron Lycoming O-360-A1AD` como motor del AMP.
 - Se adopta `Hartzell HC-C2YK-1BF/F 7666 A-2` como helice del AMP.
-- Se conserva `A51EU Rev. 18` como TCDS FAA de aeronave, pero para motor/helice se prefiere EASA.A.378 + AMM porque NotebookLM detecta omision/incertidumbre OCR en el fragmento FAA A51EU.
+- Se conserva `A51EU Rev. 18` como TCDS FAA de aeronave.
+- Tras la subida de `P-920_rev41.pdf`, se añade `P-920 Rev. 41` como TCDS FAA de helice. NotebookLM confirma que el documento incluye el hub HC-C2YK y las palas 7666/F7666 en combinacion con Lycoming O-360-A1AD.
+
+## Consulta 3 - TCDS FAA de helice
+
+Cuaderno: `Manuales_Socata` (`e9b2a1bb-aa57-45d5-8ee2-cc4e34d5f4c4`)
+
+Fecha: 2026-05-12
+
+Pregunta:
+
+> Del archivo P-920_rev41.pdf, extrae los datos necesarios para citarlo en la tabla de documentos del AMP: título exacto del TCDS FAA de hélice, número de TCDS, revisión, fecha, fabricante, aplicabilidad a la hélice Hartzell HC-C2YK-1BF/F 7666 A-2 si aparece, y página/sección exacta.
+
+Resultado usado:
+
+| Dato | Valor |
+|---|---|
+| Documento | FAA Type Certificate Data Sheet No. P-920 |
+| Revision / fecha | Revision 41, 12 Dec 2025 |
+| Titular | Hartzell Propeller LLC |
+| Aplicabilidad | Hub HC-C2YK listado; blade 7666/F7666 aprobado con Lycoming O-360-A1AD |
+| Referencias | `P-920_rev41.pdf`, Page 1; Page 5-6 Notes 1-2; Page 9 Note 9 |

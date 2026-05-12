@@ -10,6 +10,7 @@ Este trabajo es académico. No debe utilizarse como programa real de mantenimien
 |---|---|
 | `Programa_Mantenimiento_ParteML2026.md` | AMP redactado para la aeronave seleccionada |
 | `Control_de_aeronavegabilidad2026.xlsx` | Libro Excel funcional: Flight Log, Tasks, Life Limit Comp y ADs |
+| `Anexo_2_Reportes_revision_puntos_especiales_vida_limite.md` | Índice de reportes/páginas para puntos especiales y vida límite |
 | `PLAN_TRABAJO_AMP.md` | Orden de ejecución y estado de las fases |
 | `guidance.md` | Guía breve para que otro agente/persona entienda el repo |
 | `METODOLOGIA_PROFESOR.md` | Explicación al profesor sobre metodología, NotebookLM y dinámica de trabajo |

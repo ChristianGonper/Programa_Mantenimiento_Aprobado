@@ -49,10 +49,11 @@ El registro de revisiones permite controlar formalmente la configuración del AM
 | 0.3 ANEXOS | Título | Responsable | Ed/Rev |
 | :---- | :---- | ----- | ----- |
 | **Código anexo** | **Título** |  | **Ed/Rev** |
-| Anexo 1 | Report de revisiones (Inspection Chart) |  | 1.0 |
-| Anexo 2 | Listado de  Directivas Aeronavegabilidad de célula |  | 1.0 |
-| Anexo 3 | Listado de  Directivas Aeronavegabilidad de Motor |  | 1.0 |
-| Anexo 5 | Documento referencia Componentes vida límite |  | 1.0 |
+| Anexo 1 | Report de revisiones (Inspection Chart) | Grupo 7 | 1.0 |
+| Anexo 2 | Reportes de revisión, puntos especiales y componentes con vida límite | Grupo 7 | 1.0 |
+| Anexo 3 | Listado de Directivas Aeronavegabilidad de célula | Grupo 7 | 1.0 |
+| Anexo 4 | Listado de Directivas Aeronavegabilidad de motor | Grupo 7 | 1.0 |
+| Anexo 5 | Documento referencia Componentes vida límite | Grupo 7 | 1.0 |
 
 # **ENMIENDAS, CONTROL DEL PROGRAMA DE MANTENIMIENTO Y LISTA DE DISTRIBUCIÓN**
 
@@ -83,9 +84,10 @@ Referencia Instrucciones para la Aeronavegabilidad Continuada (ICA) del TCH: SOC
 | **Manual de Mantenimiento de Aeronave (AMM)** | SOCATA TB 10 Maintenance Manual, Tomes 1-7, P/N Z00.18010310E0R18. Limitación: el TCDS EASA.A.378 exige Rev. 19 o posterior, pero no está disponible en la documentación facilitada. | Rev. 18, SEP 06 |
 | **Manual de Motor** | Operator's Manual Lycoming O-360, HO-360, IO-360, AIO-360, HIO-360 & TIO-360 Series, P/N 60297-12. Aplicable a O-360-A1AD. | 8th Edition, Oct 2005; revision pages through Dec 2009 |
 | **Manual de Hélice** | Hartzell HC-C2YK-1BF/F 7666 A-2 referenciada por TCDS EASA.A.378 y AMM. No se profundiza por indicación del profesor. | Referencia de configuración, sin manual específico |
-| **Airworthiness Limitations / Time Limits** | SOCATA TB 10 Maintenance Manual Rev. 18, Chapter 05-10-00 Time Limits. Limitación: el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible para este trabajo académico. | Rev. 18, SEP 06 |
+| **Airworthiness Limitations / Time Limits** | SOCATA TB 10 Maintenance Manual Rev. 18, Chapter 04-00-00 Airworthiness Limitations y Chapter 05-10-00 Time Limits. Limitación: el TCDS EASA.A.378 Issue 05 requiere AMM Rev. 19 o posterior con Chapter 4 Airworthiness Limitations, no disponible para este trabajo académico. | Rev. 18, SEP 06 |
 | **Service Bulletins (SB) aplicables** | No se consideran otros Service Bulletins de aeronave o motor por alcance académico del trabajo. | N/A |
 | **TCDS motor** | FAA TCDS E-286, Lycoming Engines O-360 series. Incluye O-360-A1AD. | Rev. 21, 30 Apr 2013 |
+| **TCDS hélice** | FAA Type Certificate Data Sheet No. P-920, Hartzell HC-C2Y/BHC-C2Y/CHC-C2Y/DHC-C2Y. Incluye la combinación Hartzell HC-C2YK / F7666 con motor Lycoming O-360-A1AD. | Rev. 41, 12 Dec 2025 |
 | **TBO motor** | Lycoming Service Instruction No. 1009BE, Time Between Overhaul (TBO) Schedules. O-360 except O-360-E: 2000 h. | 24 Apr 2020 |
 
 # **8\. MANTENIMIENTO PROGRAMADO**

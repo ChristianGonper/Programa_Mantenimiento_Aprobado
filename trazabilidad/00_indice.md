@@ -19,6 +19,7 @@ Proyecto: AMP Parte-ML y control de aeronavegabilidad para DAHER AEROSPACE / Soc
 | 8c14e6bc-a4d4-42f3-ad43-bc800b7ff44f | 3697 TB10 MM.pdf | word_doc | AMM, inspecciones, servicing, limites |
 | 72d4a06f-4347-4edd-b8c6-af4ab0193fff | 3698 TB10 IPC.pdf | word_doc | Confirmacion de configuracion/piezas |
 | cd4ca11b-6aeb-48f8-8d89-0791d3e714a2 | A51EU_Rev18.pdf | word_doc | TCDS FAA aeronave |
+| 85d36bb3-701f-46ae-885f-8878a476892a | P-920_rev41.pdf | pdf | TCDS FAA helice Hartzell |
 | 5abe738f-b007-4416-8322-76ed907897c0 | SOCATA TB 9_10_20_21 OPTIONS KIT.pdf | pdf | Opciones/kit instalables |
 | 73578a92-84e5-4f9e-a9d3-80e0b732a722 | TBO Page SIL98-9C.pdf | pdf | TBO motor Continental |
 | baa3513e-99bf-4cac-a13f-112aa6e70949 | TCDS EASA.A.378 Issue 05.pdf | pdf | TCDS EASA aeronave |
@@ -46,3 +47,4 @@ Proyecto: AMP Parte-ML y control de aeronavegabilidad para DAHER AEROSPACE / Soc
 | ADs motor | `07_ads_motor.md` | Completado |
 | Excel funcional | `08_excel_funcional.md` | Completado con datos simulados |
 | Revision final | `09_revision_final_rubrica.md` | Completado |
+| Anexo 2 | `Anexo_2_Reportes_revision_puntos_especiales_vida_limite.md` | Preparado para entrega |
