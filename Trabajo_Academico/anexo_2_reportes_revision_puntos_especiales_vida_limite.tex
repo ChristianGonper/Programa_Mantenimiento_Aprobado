@@ -1,0 +1,255 @@
+\documentclass[12pt]{article}
+\usepackage{preamble}
+
+\newcommand{\documenttitle}{Anexo 2}
+\newcommand{\documentsubtitle}{Reportes de revisión, puntos especiales y componentes con vida límite}
+\newcommand{\aircraft}{Socata TB 10 S/N 649}
+\newcommand{\groupauthors}{Grupo 7 -- González Pérez, Christian; Alba Buitrón, Guillermo y Gil Getino, Alejandro}
+\newcommand{\FH}{FH}
+
+\begin{document}
+
+\lfoot{Autor: Grupo 7}
+\rfoot{Anexo 2}
+
+\begin{titlepage}
+    \thispagestyle{empty}
+
+    \noindent
+    \includegraphics[width=0.32\textwidth]{Figuras/ule.jpg}
+    \hfill
+    \includegraphics[height=2.4cm]{Figuras/escudo-ingenierias.png}
+
+    \vspace{1.4cm}
+
+    \begin{center}
+        {\fontsize{17pt}{21pt}\selectfont\bfseries
+        Escuela de Ingenierías \\ Industrial, Informática y Aeroespacial
+        }
+
+        \vspace{0.9cm}
+
+        {\large\bfseries Mantenimiento y Certificación de Vehículos Aeroespaciales}\\[0.35cm]
+        {\large Programa Basado en el Reglamento (UE) N\textordmasculine{} 1321/2014 -- Parte-ML}
+
+        \vspace{1.8cm}
+
+        {\fontsize{24pt}{28pt}\selectfont\bfseries \documenttitle}\\[0.25cm]
+        {\fontsize{15pt}{19pt}\selectfont\bfseries \documentsubtitle}\\[0.45cm]
+        {\Large \aircraft}
+    \end{center}
+
+    \vfill
+
+    \begin{flushright}
+        \large
+        \begin{tabular}{@{}l@{\hspace{0.35cm}}p{0.58\textwidth}@{}}
+            Efectuado por: & \groupauthors \\[5pt]
+            Curso: & 2025--2026 \\[5pt]
+            Fecha: & Mayo de 2026
+        \end{tabular}
+    \end{flushright}
+\end{titlepage}
+
+\clearpage
+\hypersetup{linkcolor=black}
+\tableofcontents\thispagestyle{empty}
+\hypersetup{allcolors=blue}
+
+\section{Objeto del anexo}
+\label{sec:objeto}
+
+Este anexo resume qué páginas del manual y qué reportes o tablas deben acompañar la entrega para justificar los puntos especiales y los componentes con vida límite incluidos en el AMP y en el Excel de control de aeronavegabilidad. No sustituye al manual original: sirve como índice de extracción y trazabilidad documental.
+
+\section{Reporte y calendario de revisiones}
+\label{sec:reporte-revisiones}
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.24\textwidth}|>{\raggedright\arraybackslash}p{0.19\textwidth}|>{\raggedright\arraybackslash}p{0.31\textwidth}|>{\raggedright\arraybackslash}p{0.16\textwidth}|}
+\caption{Reporte y calendario de revisiones.}
+\label{tab:reporte-revisiones}\\
+\hline
+\textbf{Documento} & \textbf{Capítulo / página} & \textbf{Contenido que justifica} & \textbf{Uso en el trabajo} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Documento} & \textbf{Capítulo / página} & \textbf{Contenido que justifica} & \textbf{Uso en el trabajo} \\
+\hline
+\endhead
+SOCATA TB 10 Maintenance Manual Rev.18 & 05-20-00 (BA), Page 1 & Inspection Calendar: A 25 h, 2A/VP50, 4A/VP100, AI, engine special inspection, 500 h y 1000 h special inspection & AMP 8.1, AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+SOCATA TB 10 Maintenance Manual Rev.18 & 05-20-00 (BA), Page 1, Note 1 & Referencia de 100 \FH/año para coordinación con Annual Inspection & AMP sección 6 \\
+\hline
+SOCATA TB 10 Maintenance Manual Rev.18 & 05-20-00 (BA), Page 1 & Interpretación de tolerancias y regla de no acumulación & AMP 8.1 \\
+\hline
+SOCATA TB 10 Maintenance Manual Rev.18 & 05-20-05 & Major Inspection 80A cada 2000 \FH & AMP 8.1, Excel \texttt{Tasks} \\
+\hline
+SOCATA TB 10 Maintenance Manual Rev.18 & 05-20-06 & Annual Inspection & AMP 8.1, Excel \texttt{Tasks} \\
+\hline
+\end{longtable}
+\endgroup
+
+\section{Puntos especiales y tareas fuera de fase}
+\label{sec:puntos-especiales}
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.29\textwidth}|>{\raggedright\arraybackslash}p{0.14\textwidth}|>{\raggedright\arraybackslash}p{0.27\textwidth}|>{\raggedright\arraybackslash}p{0.2\textwidth}|}
+\caption{Puntos especiales y tareas fuera de fase.}
+\label{tab:puntos-especiales}\\
+\hline
+\textbf{Tarea / punto especial} & \textbf{Intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Tarea / punto especial} & \textbf{Intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endhead
+Engine special inspection & 400 \FH & 05-20-00 (BA) Page 1; 05-20-01 Pages 234--235 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+500 hrs special inspection & 500 \FH & 05-20-00 (BA) Page 1 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+1000 hrs special inspection & 1000 \FH & 05-20-00 (BA) Page 1 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+Fuel selector filtering element & 300 \FH{} o 1 año & 05-20-01 Page 213 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+Brake hydraulic fluid change & 3 años & 05-20-01 Page 219 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+Flap actuator and supports visual inspection & 500 \FH & 05-20-01 Page 212 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+Flight control supports inspection & 500 \FH & 05-20-01 Page 225 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+Elevator hinge bearings visual inspection & 1000 \FH{} o 2 años & 05-20-01 Page 227 & AMP 8.2, Excel \texttt{Tasks} \\
+\hline
+\end{longtable}
+\endgroup
+
+\section{Tareas operacionales separadas}
+\label{sec:tareas-operacionales}
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.28\textwidth}|>{\raggedright\arraybackslash}p{0.18\textwidth}|>{\raggedright\arraybackslash}p{0.27\textwidth}|>{\raggedright\arraybackslash}p{0.17\textwidth}|}
+\caption{Tareas operacionales separadas.}
+\label{tab:tareas-operacionales}\\
+\hline
+\textbf{Tarea} & \textbf{Intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Tarea} & \textbf{Intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endhead
+Weighing and balancing & 5 años o tras modificación/reparación mayor/cambio de equipo/pintado & 05-20-00 Page 2; 05-20-01 Page 202 & AMP 8.3, Excel \texttt{Tasks} \\
+\hline
+Compass compensation & 3 años o tras instalación eléctrica/radio & 05-20-00 Page 2; 05-20-01 Page 222 & AMP 8.3, Excel \texttt{Tasks} \\
+\hline
+Air data systems tightness test & 300 \FH{} o 3 años & 05-20-01 Page 222 & AMP 8.3, Excel \texttt{Tasks} \\
+\hline
+Altimeter/transponder calibration/check & 24 meses & 05-10-00 Page 3; 05-20-01 Pages 221/223 & AMP 8.3, Excel \texttt{Tasks} \\
+\hline
+ELT visual inspection and operational test & 100 \FH{} o 6 meses & 05-20-01 Page 211 & AMP 8.3, Excel \texttt{Tasks} \\
+\hline
+\end{longtable}
+\endgroup
+
+\section{Componentes con vida límite, TBO y overhaul}
+\label{sec:componentes-vida-limite}
+
+\begingroup
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.25\textwidth}|>{\raggedright\arraybackslash}p{0.18\textwidth}|>{\raggedright\arraybackslash}p{0.29\textwidth}|>{\raggedright\arraybackslash}p{0.18\textwidth}|}
+\caption{Componentes con vida límite, TBO y overhaul.}
+\label{tab:componentes-vida-limite-anexo}\\
+\hline
+\textbf{Componente} & \textbf{Límite / intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Componente} & \textbf{Límite / intervalo} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endhead
+Alternator & Engine overhaul & 05-10-00 Page 1 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+ELT battery assembly & 4 años o fecha indicada en batería & 05-10-00 Pages 1--2 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+ELT seals & 12 años & 05-10-00 Page 2 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Fire extinguisher & 10 años; L'HOTELLIER hydrostatic test cada 5 años & 05-10-00 Page 3, TR006.05 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Vacuum system filter & 500 \FH{} o 1 año & 05-10-00 Page 3 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Emergency vacuum pump & 500 pump hours o 10 años & 05-10-00 Page 3 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Access door latches & 1500 \FH & 05-10-00 Page 3 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Propeller & Overhaul según fabricante/regulatorio & 05-10-00 Page 4; FAA TCDS P-920 Rev.41 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Propeller governor & Engine overhaul & 05-10-00 Page 4 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Engine and equipment & Engine overhaul & 05-10-00 Page 4; Lycoming SI 1009BE & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Carburetor & Engine overhaul & 05-10-00 Page 4 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Dual magneto & Engine overhaul o 4 años & 05-10-00 Page 4 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Starter & Engine overhaul & 05-10-00 Page 4 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Fuel selector filter / drain hose & 2000 \FH{} o 10 años & 05-10-00 Page 6 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+Elastomer/rubber/vinyl hoses & 5, 8 o 10 años según material/ubicación & 05-10-00 Pages 5--9 & AMP 10.1, Excel \texttt{Life Limit Comp} \\
+\hline
+\end{longtable}
+\endgroup
+
+\section{Airworthiness Limitations Items}
+\label{sec:ali}
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.31\textwidth}|>{\raggedright\arraybackslash}p{0.16\textwidth}|>{\raggedright\arraybackslash}p{0.25\textwidth}|>{\raggedright\arraybackslash}p{0.18\textwidth}|}
+\caption{Airworthiness Limitations Items.}
+\label{tab:ali-anexo}\\
+\hline
+\textbf{Elemento} & \textbf{Límite} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Elemento} & \textbf{Límite} & \textbf{Página de soporte} & \textbf{Uso en el trabajo} \\
+\hline
+\endhead
+L.H. wing structure assembly & 14600 \FH & 04-00-00 (DC) Page 3 & AMP 10.2, Excel \texttt{Life Limit Comp} \\
+\hline
+R.H. wing structure assembly & 14600 \FH & 04-00-00 (DC) Page 3 & AMP 10.2, Excel \texttt{Life Limit Comp} \\
+\hline
+Engine mount & 10000 \FH & 04-00-00 (DC) Page 3 & AMP 10.2, Excel \texttt{Life Limit Comp} \\
+\hline
+Nose landing gear mount & 10000 \FH & 04-00-00 (DC) Page 3 & AMP 10.2, Excel \texttt{Life Limit Comp} \\
+\hline
+\end{longtable}
+\endgroup
+
+\section{Trazabilidad relacionada}
+\label{sec:trazabilidad}
+
+La extracción anterior está documentada en los siguientes archivos del repositorio:
+
+\begin{itemize}[leftmargin=*]
+    \item \texttt{trazabilidad/03\_programa\_inspecciones.md}
+    \item \texttt{trazabilidad/04\_lubricacion\_servicing.md}
+    \item \texttt{trazabilidad/05\_puntos\_especiales\_lli\_tbo.md}
+    \item \texttt{trazabilidad/08\_excel\_funcional.md}
+\end{itemize}
+
+\end{document}
